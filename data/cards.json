@@ -1,0 +1,50 @@
+[
+    {
+        "image": "../gifs/aubie.gif",
+        "name": "aubie"
+    },
+    {
+        "image": "../gifs/bugs.gif",
+        "name": "bugs"
+    },
+    {
+        "image": "../gifs/cat.gif",
+        "name": "cat"
+    },
+    {
+        "image": "../gifs/forrest.gif",
+        "name": "forrest"
+    },
+    {
+        "image": "../gifs/kermit.gif",
+        "name": "kermit"
+    },
+    {
+        "image": "../gifs/pharmacist.gif",
+        "name": "pharmacist"
+    },
+    {
+        "image": "../gifs/rick.gif",
+        "name": "rick"
+    },
+    {
+        "image": "../gifs/squirrel.gif",
+        "name": "squirrel"
+    },
+    {
+        "image": "../gifs/dive.gif",
+        "name": "dive"
+    },
+    {
+        "image": "../gifs/lucy.gif",
+        "name": "lucy"
+    },
+    {
+        "image": "../gifs/daffy.gif",
+        "name": "daffy"
+    },
+    {
+        "image": "../gifs/happy.gif",
+        "name": "happy"
+    }
+]
